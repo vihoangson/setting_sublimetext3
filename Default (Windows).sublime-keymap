@@ -1,0 +1,38 @@
+[
+	{ "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+	// Show the panel with pre-defined options from settings
+	{ "keys": ["f1"], "command": "insert_snippet", "args": { "name": "Packages/XML/Snippets/long-tag.sublime-snippet" } },
+	{ "keys": ["f2"], "command": "insert_snippet", "args": {"contents": "<?php ${0:$SELECTION} ?>"}},
+	{ "keys": ["shift+f2"], "command": "insert_snippet", "args": {"contents": "<?php echo ${0:$SELECTION}; ?>"}},
+	{ "keys": ["ctrl+f2"], "command": "insert_snippet", "args": {"contents": "<?= ${0:$SELECTION}; ?>"}},
+	{ "keys": ["f3"], "command": "insert_snippet", "args": {"contents": "?>${0:$SELECTION}<?php"}},
+	{ "keys": ["f4"], "command": "toggle_side_bar"},
+	{ "keys": ["shift+f4"], "command": "insert_snippet", "args": {"contents": "  // Đánh dấu phần này "}},
+	{ "keys": ["f6"], "command": "insert_snippet", "args": {"contents": "var_dump(${1});die;"}},
+	{ "keys": ["f8"], "command": "insert_snippet", "args": {"contents": "console.log(\"$1\");"}},
+	{ "keys": ["10"],"command": "insert_date_panel" },
+	{ "keys": ["f11"], "command": "focus_side_bar" },
+	{ "keys": ["ctrl+enter"], "command": "insert_snippet", "args": {"contents": "============ ${1} ============ ${2}"}},
+	{ "keys": ["shift+f6"], "command": "insert_snippet", "args": {"contents": "  {[form_label name=\"${1:contact}[${2:key}]\"]} {[input_html name=\"${1:contact}[${2:key}]\"]} "}},
+	{ "keys": ["ctrl+shift+u"], "command": "sftp_upload_file" },
+	{ "keys": ["ctrl+shift+m"], "command": "sftp_browse" },
+	{ "keys": ["ctrl+shift+t"], "command": "trimmer" },
+	{ "keys": ["ctrl+shift+tab"], "command": "reindent"},
+	{ "keys": ["ctrl+alt+d"], "command": "find_all_under" },
+	{ "keys": ["shift+pageup"], "command": "scroll_lines", "args": {"amount": 1.0 } },//
+	{ "keys": ["shift+pagedown"], "command": "scroll_lines", "args": {"amount": -1.0 } },//
+	{ "keys": ["ctrl+shift+e"], "command": "expand_selection", "args": {"to": "indentation"} },
+	{ "keys": ["ctrl+w"], "command": "close" },
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+	{ "keys": ["ctrl+`"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{
+		"keys": ["alt+shift+2"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 0.5, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+		}
+	},
+]

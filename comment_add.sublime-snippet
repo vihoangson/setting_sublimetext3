@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+//[START][#][Add][hoang son][2016-05-20]
+${1:this}
+//[END][#][Add][hoang son][2016-05-20]
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>comment_add</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

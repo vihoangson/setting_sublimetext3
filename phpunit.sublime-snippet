@@ -1,0 +1,59 @@
+<snippet>
+	<content><![CDATA[
+    /**
+     * @depends testEmpty
+     * @dataProvider my_provider
+    */
+	\$this->assertArrayHasKey(mixed \$key, array \$array[, string \$message = ''])
+	\$this->assertClassHasAttribute(string \$attributeName, string \$className[, string \$message = ''])
+	\$this->assertClassHasStaticAttribute(string \$attributeName, string \$className[, string \$message = ''])
+	\$this->assertContains(mixed \$needle, Iterator|array \$haystack[, string \$message = ''])
+	\$this->assertContains(string \$needle, string \$haystack[, string \$message = '', boolean \$ignoreCase = FALSE])
+	\$this->assertContainsOnly(string \$type, Iterator|array \$haystack[, boolean \$isNativeType = NULL, string \$message = ''])
+	\$this->assertContainsOnlyInstancesOf(string \$classname, Traversable|array \$haystack[, string \$message = ''])
+	\$this->assertCount(\$expectedCount, \$haystack[, string \$message = ''])
+	\$this->assertEmpty(mixed \$actual[, string \$message = ''])
+	\$this->assertEqualXMLStructure(DOMElement \$expectedElement, DOMElement \$actualElement[, boolean \$checkAttributes = FALSE, string \$message = ''])
+	\$this->assertEquals(mixed \$expected, mixed \$actual[, string \$message = ''])
+	\$this->assertEquals(float \$expected, float \$actual[, string \$message = '', float \$delta = 0])
+	\$this->assertEquals(DOMDocument \$expected, DOMDocument \$actual[, string \$message = ''])
+	\$this->assertEquals(object \$expected, object \$actual[, string \$message = ''])
+	\$this->assertEquals(array \$expected, array \$actual[, string \$message = ''])
+	\$this->assertFalse(bool \$condition[, string \$message = ''])
+	\$this->assertFileEquals(string \$expected, string \$actual[, string \$message = ''])
+	\$this->assertFileExists(string \$filename[, string \$message = ''])
+	\$this->assertGreaterThan(mixed \$expected, mixed \$actual[, string \$message = ''])
+	\$this->assertGreaterThanOrEqual(mixed \$expected, mixed \$actual[, string \$message = ''])
+	\$this->assertInstanceOf(\$expected, \$actual[, \$message = ''])
+	\$this->assertInternalType(\$expected, \$actual[, \$message = ''])
+	\$this->assertJsonFileEqualsJsonFile(mixed \$expectedFile, mixed \$actualFile[, string \$message = ''])
+	\$this->assertJsonStringEqualsJsonFile(mixed \$expectedFile, mixed \$actualJson[, string \$message = ''])
+	\$this->assertJsonStringEqualsJsonString(mixed \$expectedJson, mixed \$actualJson[, string \$message = ''])
+	\$this->assertLessThan(mixed \$expected, mixed \$actual[, string \$message = ''])
+	\$this->assertLessThanOrEqual(mixed \$expected, mixed \$actual[, string \$message = ''])
+	\$this->assertNull(mixed \$variable[, string \$message = ''])
+	\$this->assertObjectHasAttribute(string \$attributeName, object \$object[, string \$message = ''])
+	\$this->assertRegExp(string \$pattern, string \$string[, string \$message = ''])
+	\$this->assertStringMatchesFormat(string \$format, string \$string[, string \$message = ''])
+	\$this->assertStringMatchesFormatFile(string \$formatFile, string \$string[, string \$message = ''])
+	\$this->assertSame(mixed \$expected, mixed \$actual[, string \$message = ''])
+	\$this->assertSame(object \$expected, object \$actual[, string \$message = ''])
+	\$this->assertSelectCount(array \$selector, integer \$count, mixed \$actual[, string \$message = '', boolean \$isHtml = TRUE])
+	\$this->assertSelectEquals(array \$selector, string \$content, integer \$count, mixed \$actual[, string \$message = '', boolean \$isHtml = TRUE])
+	\$this->assertSelectRegExp(array \$selector, string \$pattern, integer \$count, mixed \$actual[, string \$message = '', boolean \$isHtml = TRUE])
+	\$this->assertStringEndsWith(string \$suffix, string \$string[, string \$message = ''])
+	\$this->assertStringEqualsFile(string \$expectedFile, string \$actualString[, string \$message = ''])
+	\$this->assertStringStartsWith(string \$prefix, string \$string[, string \$message = ''])
+	\$this->assertTag(array \$matcher, string \$actual[, string \$message = '', boolean \$isHtml = TRUE])
+	\$this->assertThat(mixed \$value, PHPUnit_Framework_Constraint \$constraint[, \$message = ''])
+	\$this->assertTrue(bool \$condition[, string \$message = ''])
+	\$this->assertXmlFileEqualsXmlFile(string \$expectedFile, string \$actualFile[, string \$message = ''])
+	\$this->assertXmlStringEqualsXmlFile(string \$expectedFile, string \$actualXml[, string \$message = ''])
+	\$this->assertXmlStringEqualsXmlString(string \$expectedXml, string \$actualXml[, string \$message = ''])
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>phpunit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

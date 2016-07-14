@@ -1,0 +1,201 @@
+[
+	{
+		"args":
+		{
+			"characters": "Kho"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ông"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " co"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ó"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " gi"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ì"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " quy"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ý"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " ho"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ơn"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " d"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "đo"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ô"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ộc"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " la"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "âp"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ập"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " tu"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ư"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "ự"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " do"
+		},
+		"command": "insert"
+	}
+]

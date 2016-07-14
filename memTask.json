@@ -1,0 +1,2792 @@
+{
+    "01.07.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\PHPUnit\\PHPUnit.sublime-settings": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "01.07.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\PHPUnit.sublime-settings": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 165
+    }, 
+    "01.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\tmp.note": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 70
+    }, 
+    "01.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\union_query.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 120
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\config\\pwater.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 160
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_Sbps.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\sbps.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 6865
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\controllers\\contract_manager\\payment_history.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 1825
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\views\\contract_manager\\payment_history_show.tpl": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 155
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_staff\\controllers\\registration.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 320
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\phpunit.xml": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 755
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\phpunit_all.xml": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 65
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\bootstrap.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_11675_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12081_insert_upload_log_purchase_transaction_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12202_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 490
+    }, 
+    "01.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_PW_SBPS_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 1205
+    }, 
+    "01.07.2016\\D:\\xampp\\apache\\conf\\extra\\httpd-vhosts.conf": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 60
+    }, 
+    "01.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\readme.md": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 620
+    }, 
+    "01.07.2016\\temp files": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2380
+    }, 
+    "04.07.2016\\C:\\Users\\hoang_son\\Desktop\\testanimate.html": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1055
+    }, 
+    "04.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\Query_1.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "04.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\Tim_contract_id_co_log.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "04.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\db.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "04.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\query_contract_info.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 285
+    }, 
+    "04.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\query_contract_info_sbps.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 570
+    }, 
+    "04.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\query_payment.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 60
+    }, 
+    "04.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\union_query.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\config\\pwater.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\helpers\\carrier_payment_helper.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 150
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_SBPS\\abstract_payment.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_Sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 110
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\order_settlement.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 570
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1630
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\settlement_type.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\controllers\\contract_manager\\payment_history.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 85
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\process_carrier.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1935
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\phpunit.xml": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 75
+    }, 
+    "04.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12202_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 540
+    }, 
+    "04.07.2016\\D:\\PWater\\SQL\\query_contract_info.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 420
+    }, 
+    "04.07.2016\\D:\\PWater\\SQL\\query_contract_info_sbps.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 170
+    }, 
+    "04.07.2016\\D:\\PWater\\SQL\\query_payment.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "04.07.2016\\D:\\PWater\\query_payment.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 230
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\api\\register.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 215
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\README.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1640
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\config\\autoload.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\config\\routes.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 55
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\Homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 55
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\admin\\Admin_page.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\api\\Kyniem.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\api\\Options_control.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\blog\\Blog_controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1020
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\core\\MY_Controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 410
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\core\\MY_Model.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\helpers\\common_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\helpers\\read_sheet_google.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 430
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\libraries\\Action.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 290
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\models\\Blog.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\models\\Kyniem.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\models\\Options_model.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\_includes\\footer.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 280
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\_includes\\navbar.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 545
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\_includes\\navbar_left_admin.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\admin\\session_login.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 105
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\blog\\detail.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\blog\\index.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 120
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\blog\\input.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 545
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\login.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\readfile.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 1780
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\libraries\\Zip.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\readme.md": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "04.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\bower.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 180
+    }, 
+    "04.07.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 6125
+    }, 
+    "05.07.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\TodoReview\\Default.sublime-keymap": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "05.07.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\TodoReview.sublime-settings": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 65
+    }, 
+    "05.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\ReadMe.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 340
+    }, 
+    "05.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 405
+    }, 
+    "05.07.2016\\D:\\A20P52\\www\\dev\\pwater\\public\\landing\\default\\js\\jquery-ui-1.10.3.custom.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\.gitignore": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 70
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\Note.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\README.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 330
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\config\\rest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 135
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\Homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 505
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\Template_view_controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 290
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\api\\Options_control.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 870
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\core\\MY_Controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\core\\REST_Controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\_includes\\footer.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 865
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\_includes\\header.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 450
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\_includes\\navbar.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 390
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 435
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\bower.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 590
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\bower_components\\bootstrap-sweetalert\\dist\\sweetalert.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\bower_components\\bootstrap-sweetalert\\dist\\sweetalert.min.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\js\\Magnific-Popup-master\\dist\\jquery.magnific-popup.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\js\\comment.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 440
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\js\\script.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 400
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\template\\crew\\sass\\bootstrap\\_dropdowns.scss": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\nhatky\\index.html": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\phpliteadmin.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 250
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\database\\drivers\\cubrid\\cubrid_driver.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 310
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\helpers\\string_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 60
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\libraries\\Session\\Session.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\vendor\\doctrine\\dbal\\lib\\Doctrine\\DBAL\\Cache\\ArrayStatement.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\vendor\\doctrine\\orm\\lib\\Doctrine\\ORM\\Tools\\SchemaTool.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "05.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\bower.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 235
+    }, 
+    "05.07.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2535
+    }, 
+    "06.07.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\TodoReview.sublime-settings": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "06.07.2016\\C:\\Users\\hoang_son\\Desktop\\index.html": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 830
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\.svn\\pristine\\24\\24d823f14e21ed2d2d288598f2191c9f2cd0b373.svn-base": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\order_settlement.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 890
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\system_code.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 235
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\controllers\\contract_manager\\payment_history.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 90
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 295
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\process_carrier.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\phpunit.xml": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_11675_Test.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 180
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12081_insert_upload_log_purchase_transaction_Test.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12202_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1630
+    }, 
+    "06.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_PW_SBPS_Test.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\README.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\Homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 210
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\api\\Kyniem.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\libraries\\JwtLib.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1065
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\libraries\\jwt.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 95
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\tests\\test_lib\\FamilyTestGeneralCommon_HelperTest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\tests\\test_lib\\JWT_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 95
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\tests\\test_models\\My_Model_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\index.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\readme.rst": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 75
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\vendor\\firebase\\php-jwt\\src\\JWT.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\app\\Http\\Controllers\\Book\\BookController.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\app\\Http\\Controllers\\Kintai\\StaffController.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\app\\Providers\\RouteServiceProvider.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\app\\Services\\Registrar.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\config\\jwt.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Account\\Entities\\User.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Account\\Events\\PermissionListener.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Account\\Events\\RoleListener.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Account\\Module.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Account\\Repositories\\PermissionRepository.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Account\\Repositories\\UserRepository.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Account\\Repositories\\UserRoleRepository.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Account\\Services\\RoleService.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Account\\Services\\UserService.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Book\\Entities\\Book.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 55
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Book\\Events\\BookListener.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Book\\Module.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Book\\Repositories\\BookRepository.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Book\\Services\\BookService.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Kintai\\Module.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 55
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\Kintai\\Repositories\\StaffRepository.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\System\\Module.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\config.services.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\modules\\doctrine.paths.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\app\\index.html": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\update": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 405
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\AbstractBaseEntity.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\AbstractBaseEntityCollection.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\AbstractBaseEntityListener.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\AbstractBaseService.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\AbstractDoctrineRepository.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\AbstractLaravelController.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 80
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\AbstractLaravelHttpController.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\AbstractLaravelRepository.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\AbstractLeagueServiceProvider.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\IBaseRepository.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\Common\\ILaravelRepository.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\src\\Chaos\\functions.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\tests\\BaseDoctrineRepositoryTraitTest.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\league\\container\\src\\ServiceProvider\\AbstractServiceProvider.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "06.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\league\\container\\src\\ServiceProvider\\ServiceProviderInterface.php": {
+        "branch": "Dev_H_Son", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\F:\\NH\u1eacN D\u1ea0Y K\u00c8M TI\u1ebeNG NH\u1eacT CHO TR\u00ccNH \u0110\u1ed8.xml": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "06.07.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2640
+    }, 
+    "07.07.2016\\C:\\Users\\hoang_son\\Desktop\\testanimate.html": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 340
+    }, 
+    "07.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\tmp.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "07.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\order_settlement.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "07.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1370
+    }, 
+    "07.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\process_carrier.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\README.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\config\\ldap.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 70
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\config\\rest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\config\\routes.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\controllers\\Admin_page.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\controllers\\Homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 315
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\controllers\\Sample.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\composer.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 195
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\vendor\\helper_common\\composer.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 615
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\vendor\\helper_common\\helper_common\\form\\form_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 140
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\vendor\\helper_common\\src\\helper_common\\form\\form_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\_includes\\footer.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 70
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\_includes\\header.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 390
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 220
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\bower_components\\Snarl\\dist\\snarl.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\bower_components\\Snarl\\dist\\snarl.min.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\bower_components\\Snarl\\src\\js\\snarl.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\bower_components\\bootstrap-sweetalert\\dev\\sweetalert.es6.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\js\\app.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 3230
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\js\\comment.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 715
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\js\\script.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 480
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\readme.rst": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 250
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\helper_common\\.gitignore": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 75
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\helper_common\\composer.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 520
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\helper_common\\helper_common\\form\\form_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\helper_common\\phpunit.xml": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 290
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\helper_common\\src\\helper_common\\form\\form_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\helper_common\\tests\\CommonTest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 195
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\helper_common\\tests\\index.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 180
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\helper_common\\vendor\\composer\\ClassLoader.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\readme.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 285
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\composer.json": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 130
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\phpunit.xml": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\app\\scripts\\app.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 825
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\app\\scripts\\common\\factories\\abstract.controller.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 120
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\app\\scripts\\common\\factories\\abstract.model.js": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\app\\scripts\\common\\factories\\abstract.repository.js": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\app\\scripts\\kintai\\staff\\staff.controller.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 160
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\bower_components\\angular\\angular.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 80
+    }, 
+    "07.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\chaos\\common\\tests\\BaseDoctrineRepositoryTraitTest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "07.07.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2765
+    }, 
+    "08.07.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 115
+    }, 
+    "08.07.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\start-stop.sublime-snippet": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "08.07.2016\\C:\\Users\\hoang_son\\Desktop\\func4.html": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 385
+    }, 
+    "08.07.2016\\C:\\Users\\hoang_son\\Desktop\\func4.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 445
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\api\\register.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 870
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\README.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 55
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\Homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2815
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\js\\app.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\composer.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1205
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\helpers\\cookie_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\vendor\\helper_common\\src\\functions.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\composer.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 95
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\public\\themes\\homer\\app\\scripts\\app.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\kintai\\src\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Validation\\ValidatesRequests.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\tmp\\phpuml\\composer.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 275
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\tmp\\phpuml\\src\\index.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\tmp\\test_composer\\composer.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 150
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\tmp\\test_composer\\composer.phar": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\tmp\\trait\\index.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1405
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\vihoangson.com.dev.vn\\.env.example": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\vihoangson.com.dev.vn\\composer.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1290
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\vihoangson.com.dev.vn\\readme.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 230
+    }, 
+    "08.07.2016\\D:\\xampp\\htdocs\\vhosts\\vihoangson.com.dev.vn\\resources\\views\\layouts\\layout.blade.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 55
+    }, 
+    "08.07.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1455
+    }, 
+    "11.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\tmp.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 370
+    }, 
+    "11.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\sbps.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 150
+    }, 
+    "11.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_11908_test_cron_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "11.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12081_insert_upload_log_purchase_transaction_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 290
+    }, 
+    "11.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12202_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "11.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_PW_SBPS_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\CodeIgniter-JWT-Sample\\application\\config\\jwt.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\CodeIgniter-JWT-Sample\\application\\config\\rest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\CodeIgniter-JWT-Sample\\application\\controllers\\Auth.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1955
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\CodeIgniter-JWT-Sample\\application\\controllers\\Rest_server.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 510
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\CodeIgniter-JWT-Sample\\application\\libraries\\REST_Controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\CodeIgniter-JWT-Sample\\system\\core\\Input.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\Homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 505
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\libraries\\JwtLib.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 310
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\tests\\test_lib\\JWT_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\family\\composer.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\tmp\\phpuml\\src\\index.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\application\\.htaccess": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\application\\controllers\\admin\\Article.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 80
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\application\\views\\admin\\homepage.twig": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\application\\views\\admin\\input_article.twig": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1480
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\application\\views\\layout\\frontend.twig": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\assets\\bower.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 95
+    }, 
+    "11.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\assets\\bower_components\\jquery-form\\jquery.form.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "11.07.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1515
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Comment_common.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\MyTask\\2016_7_12.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 465
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\MyTask\\__Template_note.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 90
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\backup_code\\20160607\\backup_code_lib.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\dev hay v\u00e0 dev d\u1edf.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\document API.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\tmp.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\query_contract_info.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 160
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\query_contract_info_sbps.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 560
+    }, 
+    "12.07.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\query_support_for_payment.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 320
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\helpers\\PW_array_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\helpers\\PW_date_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 265
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\helpers\\common_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\helpers\\money_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 55
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 180
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\process_carrier.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\phpunit.xml": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 310
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\models\\ContractTest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\models\\SbpsTest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\pwater.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\sample\\SampleTest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2040
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\sample\\test_sample.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs11675Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs11846Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 100
+    }, 
+    "12.07.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs11879Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "12.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\application\\config\\database.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "12.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\application\\controllers\\admin\\Article.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2075
+    }, 
+    "12.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\application\\views\\admin\\input_article.twig": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 925
+    }, 
+    "12.07.2016\\D:\\xampp\\htdocs\\vhosts\\tool.vihoangson.com.dev.vn\\application\\views\\layout\\frontend.twig": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "12.07.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1605
+    }, 
+    "17.06.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\PlainTasks\\messages\\Tutorial.todo": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 465
+    }, 
+    "17.06.2016\\C:\\Users\\hoang_son\\Desktop\\Test_CDN_Summernote.html": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 565
+    }, 
+    "17.06.2016\\C:\\Users\\hoang_son\\Desktop\\index.html": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 355
+    }, 
+    "17.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Design_db.note": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 395
+    }, 
+    "17.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Design_db_1.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 480
+    }, 
+    "17.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Design_db_2.note": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "17.06.2016\\C:\\Users\\hoang_son\\bower.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "17.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\controllers\\admin\\admin_page.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "17.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\controllers\\admin_page.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 75
+    }, 
+    "17.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\views\\_includes\\footer.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "17.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\views\\_includes\\header.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "17.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\views\\admin\\add.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "17.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\views\\homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "17.06.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2125
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.037\\settlement_sbps_detail_log_purchase.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 125
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.109\\settlement_sbps_detail_log_payment.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.263\\settlement_sbps_detail_log_purchase.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 105
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.328\\contract_sbps_history.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.607\\contract_sbps.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.849\\settlement_sbps_detail_log_purchase.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 55
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\Desktop\\DB_sbps_20160620154543.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\Desktop\\fix_db_.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\Desktop\\settlement_sbps_detail_log_payment.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 200
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\Desktop\\settlement_sbps_detail_log_purchase.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 195
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\Desktop\\upload_\\DB_all_sbps_20160620141546.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\Desktop\\upload_\\DB_sbps_20160620141546.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 85
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\Desktop\\upload_\\settlement_sbps_detail_log_purchase.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\Desktop\\upload_\\settlement_sbps_detail_log_purchase_transaction.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 925
+    }, 
+    "20.06.2016\\C:\\Users\\hoang_son\\Desktop\\upload_\\sql\\settlement_sbps_detail_log_purchase_transaction.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 75
+    }, 
+    "20.06.2016\\C:\\bin\\phpunit.phar": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 385
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\contract.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\order_settlement.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1935
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\product.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\settlement_type.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 460
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_customer.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment_au.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 815
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment_softbank.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1020
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_questionnaires.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\import_gyomu_file_manager.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "20.06.2016\\D:\\A20P52\\www\\dev\\pwater\\temp\\logs\\debug\\debug-2016-06-20.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "20.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\.gitignore": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 130
+    }, 
+    "20.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\views\\_includes\\footer.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 130
+    }, 
+    "20.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\assets\\bower.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 140
+    }, 
+    "20.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\index.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 335
+    }, 
+    "20.06.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 3255
+    }, 
+    "21.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.897\\11796_DB_all_sbps_20160621084749.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "21.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.948\\11796_DB_all_sbps_20160621084749.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 95
+    }, 
+    "21.06.2016\\C:\\Users\\hoang_son\\Desktop\\DB_SBPS\\11796_DB_all_sbps_20160620154543.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "21.06.2016\\C:\\Users\\hoang_son\\Desktop\\DB_SBPS\\11796_DB_all_sbps_20160621084749.sql": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 120
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\config\\pwater.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\core\\PW_Authentication.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\helpers\\translate_errorcode_payment_sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\app_common.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 265
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\fee.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\order_settlement.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 490
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\partner.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2520
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\settlement_type.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1460
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment_softbank.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 60
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\codeigniter.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\system\\core\\Model.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_11675_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_11908_test_cron_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 380
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12081_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12081_insert_upload_log_purchase_transaction_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5255
+    }, 
+    "21.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_PW_SBPS_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 170
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\README.md": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\config\\ldap.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 95
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\config\\rest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 90
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\controllers\\Admin_page.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\libraries\\Format.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\SachHay\\application\\libraries\\REST_Controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\config\\config.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 85
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\config\\ldap.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 85
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\config\\rest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 190
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\Homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1990
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\admin\\Admin_page.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 485
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\ajax\\Do_ajax.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 435
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\api\\Kyniem.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1325
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\api\\Options_control.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 580
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\core\\MY_Controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 250
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\core\\REST_Controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 80
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\helpers\\common_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 485
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\libraries\\dBug.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\logs\\log-2016-06-21.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 235
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\models\\Kyniem.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 115
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\models\\MY_Kyniem.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\models\\Options_model.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\tests\\test_models\\My_Model_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 85
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\core\\Log.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "21.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\libraries\\Session\\Session.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "21.06.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 3855
+    }, 
+    "22.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\scp03720\\var\\www\\vhosts\\my_blog\\resources\\views\\layouts\\layout.blade.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 85
+    }, 
+    "22.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\scp05919\\var\\www\\vhosts\\my_blog\\resources\\views\\widgets\\ele_resume.blade.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 685
+    }, 
+    "22.06.2016\\C:\\Users\\hoang_son\\Desktop\\Refs_PW_SBPS_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 565
+    }, 
+    "22.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Code it bug.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 470
+    }, 
+    "22.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Code \u00edt bug.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 3825
+    }, 
+    "22.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\document API.note": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5185
+    }, 
+    "22.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_Sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "22.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 205
+    }, 
+    "22.06.2016\\D:\\A20P52\\www\\dev\\pwater\\package.json": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 305
+    }, 
+    "22.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12081_insert_upload_log_purchase_transaction_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 655
+    }, 
+    "22.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_PW_SBPS_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 65
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\api\\register.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 160
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\admin\\Admin_page.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\ajax\\Do_ajax.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\helpers\\common_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 3030
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\tests\\helpers\\HelperTest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\tests\\test_lib\\FamilyTestGeneralCommon_HelperTest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\admin\\admin_page.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 135
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\index.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\database\\DB_result.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\language\\english\\unit_test_lang.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\vihoangson.com.dev.vn\\resources\\views\\layouts\\layout.blade.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "22.06.2016\\D:\\xampp\\htdocs\\vhosts\\vihoangson.com.dev.vn\\resources\\views\\widgets\\ele_resume.blade.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "22.06.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1625
+    }, 
+    "23.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\scp11793\\var\\www\\vhosts\\family.vihoangson.com\\.htaccess": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 655
+    }, 
+    "23.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\scp52665\\etc\\php.ini": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 440
+    }, 
+    "23.06.2016\\C:\\Users\\hoang_son\\Downloads\\1_reg (1).php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "23.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_SBPS\\abstract_payment.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "23.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_Sbps.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 75
+    }, 
+    "23.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 85
+    }, 
+    "23.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_PW_SBPS_Test.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 300
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\Homepage.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 915
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\admin\\Admin_page.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\controllers\\ajax\\Do_ajax.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2765
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\core\\MY_Controller.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 2715
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\helpers\\common_helper.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1960
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\libraries\\HZip.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 230
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\models\\MY_Comment.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 105
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\tests\\helpers\\HelperTest.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\_includes\\header.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\views\\admin\\admin_page.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\bower.json": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 245
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\asset\\bower_components\\jquery-form\\jquery.form.js": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 95
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\core\\Exceptions.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\database\\DB_utility.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "23.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\system\\libraries\\Zip.php": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 65
+    }, 
+    "23.06.2016\\temp files": {
+        "branch": "master", 
+        "path_divider": "\\", 
+        "time": 1490
+    }, 
+    "27.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Power point\\serminar_less_bug.md": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 1750
+    }, 
+    "27.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Power point\\serminar_less_bug\\serminar_less_bug.md": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "27.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_Sbps.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "27.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "27.06.2016\\D:\\xampp\\htdocs\\vhosts\\family\\application\\helpers\\common_helper.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "27.06.2016\\temp files": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 1660
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\scp01963\\var\\www\\vhosts\\oop.vn\\readcode.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 320
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\scp24161\\var\\www\\vhosts\\my_blog\\app\\Http\\routes.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\scp38232\\var\\www\\vhosts\\my_blog\\app\\Http\\Controllers\\ajax\\CommentController.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 350
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Desktop\\403 Forbidden.txt": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 300
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Desktop\\Read Me.md": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Desktop\\auto_input\\cfg - agree.ini": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 105
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Desktop\\auto_input\\cfg - bib.ini": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 165
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Desktop\\auto_input\\cfg - business.ini": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Desktop\\auto_input\\cfg - landing.ini": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Desktop\\backup_family.sh": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 320
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Desktop\\package.json": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Desktop\\sh_f.sh": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 350
+    }, 
+    "28.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Power point\\serminar_less_bug\\serminar_less_bug.md": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 150
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\config\\config.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 70
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\config\\pwater.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2010
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\helpers\\carrier_payment_helper.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 305
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_SBPS\\abstract_payment.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 240
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_Sbps.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 805
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\controllers\\contract_manager\\main.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\controllers\\contract_manager\\payment_method_info.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\language\\japanese\\sbps_api_error_code_lang.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 85
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_cgi\\controllers\\acquisition.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_cgi\\controllers\\read_error.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 385
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_cgi\\controllers\\sbps_process.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2150
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_staff\\controllers\\procedures_payment_method.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 785
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_staff\\controllers\\registration.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 835
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\paygent_cron.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\process_carrier.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 65
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\registration\\controllers\\registration.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\temp\\logs\\debug\\debug-2016-06-28.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 745
+    }, 
+    "28.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_PW_SBPS_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 50
+    }, 
+    "28.06.2016\\D:\\xampp\\htdocs\\vhosts\\api\\register.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "28.06.2016\\temp files": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2130
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.207\\11796_DB_all_sbps_20160621084749.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 95
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.250\\pwater.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 45
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.255\\11796_DB_all_sbps_20160629165042.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 155
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.393\\11796_DB_all_sbps_20160621084749.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 420
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.588\\pwater.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 75
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\AppData\\Local\\Temp\\Rar$DIa0.939\\11796_DB_all_sbps_20160621084749.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 115
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 40
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\Desktop\\db.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\Desktop\\sh_f.sh": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\Downloads\\tmp\\ReadMe.md": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\dev hay v\u00e0 dev d\u1edf.note": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 175
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\tmp.note": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\sh_file\\sh_f.sh": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "29.06.2016\\C:\\Users\\hoang_son\\sh_file\\showLog.sh": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 565
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\config\\database.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\config\\pwater.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 150
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\core\\PW_Model.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\helpers\\carrier_payment_helper.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2660
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\Email_template.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_Log.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_SBPS\\abstract_payment.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 105
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\PW_Sbps.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2260
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\order.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 165
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\order_settlement.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 3180
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\paygent_model.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 95
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\settlement_type.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 15
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\controllers\\contract_manager\\payment_history.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\views\\contract_manager\\payment_history_show.tpl": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_staff\\controllers\\registration.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 645
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_20150401.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2930
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_questionnaires.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\process_carrier.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 980
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\rescue_batch.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\temp\\logs\\carrier_payment-log-2016-06-29.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 80
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\temp\\logs\\cron-payment-2016-06-29.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_11675_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 460
+    }, 
+    "29.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_PW_SBPS_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "29.06.2016\\temp files": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2850
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\SVN.errors.log": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 90
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\last_query.sublime-snippet": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\Desktop\\queri1.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\Desktop\\union_query.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2835
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\Comment_common.note": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Notes\\tmp.note": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 785
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\Query_1.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\Tim_contract_id_co_log.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\Union All.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 210
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\queri1.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 260
+    }, 
+    "30.06.2016\\C:\\Users\\hoang_son\\Dropbox\\Script _ Sql\\Pwater\\union_query.sql": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 1565
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\helpers\\PW_number_helper.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\libraries\\Navigation.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\inventory.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 320
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\np_setting.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 145
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\order.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 20
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\order_settlement.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 300
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\paygent_model.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 35
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\report_shipment.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\sbps.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 7150
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\server.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 60
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\models\\settlement_type.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\controllers\\contract_manager\\delivery_cycle_info.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\controllers\\contract_manager\\main.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\controllers\\contract_manager\\payment_history.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 2040
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_admin\\views\\contract_manager\\payment_history_show.tpl": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 265
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_cgi\\controllers\\sbps_process.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\_staff\\controllers\\premium_plus.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 25
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\cron_payment.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 65
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\application\\widgets\\cron\\controllers\\process_carrier.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 10
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\phpunit.xml": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 360
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_11675_Test - Copy.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 65
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_11675_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 145
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_12202_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 420
+    }, 
+    "30.06.2016\\D:\\A20P52\\www\\dev\\pwater\\tests\\tasks\\Refs_PW_SBPS_Test.php": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 5
+    }, 
+    "30.06.2016\\c:\\users\\hoang_~1\\appdata\\local\\temp\\sublime-svn-1467268503\\SVN": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 30
+    }, 
+    "30.06.2016\\temp files": {
+        "branch": null, 
+        "path_divider": "\\", 
+        "time": 1535
+    }
+}

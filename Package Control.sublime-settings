@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Animate.css Snippets",
+		"Bootstrap 3 Snippets",
+		"Clipboard Manager",
+		"CodeIgniter Snippets",
+		"DocBlockr",
+		"Doctrine Snippets",
+		"Git",
+		"Icon Fonts",
+		"Insert Nums",
+		"InsertDate",
+		"jQuery",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"memTask",
+		"My Snippets",
+		"Package Control",
+		"PHP Getters and Setters",
+		"PHPUnit",
+		"PHPUnit Snippets",
+		"PlainNotes",
+		"RemotePHPUnit",
+		"Smarty",
+		"SVN",
+		"Terminal",
+		"Todo",
+		"TodoReview",
+		"Trimmer",
+		"Twig"
+	]
+}

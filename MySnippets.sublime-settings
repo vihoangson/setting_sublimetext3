@@ -1,0 +1,15 @@
+{
+	// Setup other folders that contain code snippets you want to include in your library
+	// Each folder setting must have a "display" and "path" name|value pair
+	// If path is empty, or if path is not an accessible directory, then that setting will be skipped
+	// Leaving display empty will place directory contents in root menu
+	"folders":[
+	    {//Example of including library with a full path
+	        "display": "My_Snippet",
+	        "path": "C:/Users/hoang_son/Dropbox/Notes/My_Snippet"
+	    },
+	],
+	// Used when livesync is enabled, how long to wait between updates - Time is in MILLISECONDS
+	"syncewait": 1000,
+	"showmain": true
+}
