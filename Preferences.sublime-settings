@@ -1,10 +1,11 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_white_space": "all",
-	"font_size": 16,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	    "rulers": [80],
 	"word_wrap": "false"
 }
